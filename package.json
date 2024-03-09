@@ -1,0 +1,21 @@
+{
+  "name": "nerd-sun",
+  "displayName": "Nerd Sun",
+  "description": "Light VS Code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nerd Sun",
+        "uiTheme": "vs",
+        "path": "./themes/Nerd Sun-color-theme.json"
+      }
+    ]
+  }
+}
